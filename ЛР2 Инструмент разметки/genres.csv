@@ -1,0 +1,32 @@
+id,subGenres
+all,['all']
+pop,"['ruspop', 'disco', 'kpop', 'turkishpop', 'uzbekpop', 'japanesepop', 'israelipop', 'pop']"
+allrock,"['rusrock', 'rock-n-roll', 'prog-rock', 'post-rock', 'new-wave', 'ukrrock', 'folkrock', 'stonerrock', 'hardrock', 'turkishrock', 'rock', 'israelirock', 'allrock']"
+indie,"['local-indie', 'indie']"
+metal,"['classicmetal', 'progmetal', 'numetal', 'epicmetal', 'folkmetal', 'extrememetal', 'industrial', 'metal']"
+alternative,"['posthardcore', 'hardcore', 'turkishalternative', 'alternative']"
+electronic,"['dubstep', 'experimental', 'electronic']"
+dance,"['house', 'techno', 'trance', 'drum-n-bass', 'dance']"
+hip-hop,"['rusrap', 'foreignrap', 'turkishrap', 'israelirap', 'hip-hop']"
+r-n-b,"['soul', 'funk', 'r-n-b']"
+jazz,"['trad-jass', 'modern-jazz', 'jazz']"
+blues,['blues']
+reggae,"['reggaeton', 'dub', 'reggae']"
+ska,['ska']
+punk,['punk']
+world,"['russian', 'tatar', 'celtic', 'balkan', 'european', 'jewish', 'eastern', 'african', 'latin-american', 'american', 'romances', 'argentinetango', 'armenian', 'georgian', 'azerbaijani', 'caucasian', 'turkishclassical', 'arabesquemusic', 'turkishfolk', 'world']"
+estrada,"['rusestrada', 'estrada']"
+shanson,['shanson']
+country,['country']
+soundtrack,"['films', 'tv-series', 'animated-films', 'videogame-music', 'musical', 'bollywood', 'soundtrack']"
+easy,"['lounge', 'new-age', 'meditative', 'easy']"
+children,['children']
+naturesounds,['naturesounds']
+singer-songwriter,"['rusbards', 'foreignbard', 'singer-songwriter']"
+for-children,['for-children']
+fairytales,['fairytales']
+poemsforchildren,['poemsforchildren']
+podcast,"['arts', 'business', 'comedy', 'education', 'health', 'music', 'hobbies', 'technology', 'government', 'history', 'familypodcasts', 'news', 'religion', 'science', 'society', 'recreation', 'filmpodcasts', 'podcast']"
+classicalmusic,"['opera', 'modern-classical', 'classical', 'classicalmasterpieces', 'classicalmusic']"
+audiobooks,"['work', 'technologies', 'community', 'hls', 'fiction', 'selfdevelopment', 'audiobooks']"
+other,"['sport', 'holiday', 'other']"
